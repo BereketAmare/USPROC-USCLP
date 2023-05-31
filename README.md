@@ -1,2 +1,2 @@
 # USCLP
-🟢 R  An analysis of the link between socio-economic status and police killings in the U.S
+An analysis of the link between socio-economic status and police killings in the U.S
